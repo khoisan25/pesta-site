@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+#ext_menu-0 .navbar-toggler {
+  color: #e6e0dc;
+}
+#msg-box4-e .mbr-section-title {
+  text-align: left;
+  color: #f80000;
+}
+#msg-box4-e .lead {
+  font-size: 15px;
+  color: #e6e0dc;
+}
+
+#header1-8 H1 {
+  color: #ffff00;
+}
+#header1-8 B {
+  font-family: 'Oxygen', sans-serif;
+  color: #000000;
+  font-size: 48px;
+}
+#ext_menu-f .navbar-toggler {
+  color: #e6e0dc;
+}
+#content4-i H4 {
+  font-size: 15px;
+  color: #f80000;
+}
